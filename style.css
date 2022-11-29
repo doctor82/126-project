@@ -1,0 +1,33 @@
+.heading{
+font-size: 23px;
+margin: 0px;
+width:100%;
+
+}
+.note{
+font-size:17px ;
+color: black;
+}
+body{
+background-size:cover;
+}
+.div_speed_img,.div_speed_volume{
+width: 199px;
+border-radius: 100%;
+
+}
+.div_speed{
+    float: left;
+}
+
+    .div_volume{
+        float: right;
+    }
+    #speed,#volume{
+    font-size: 23px;
+    margin: 15px;
+    }
+    .play_button{
+        font-size: 27px;
+        margin: 0px;
+    }
